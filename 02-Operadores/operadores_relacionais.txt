@@ -1,0 +1,10 @@
+Operadores Relacionais
+Verdadeiro Falso - True False
+Maior		| >	Luis > Borges = True
+Menor		| <	Luis < Borges = False
+Maior ou igual	| >=
+Menor ou igual	| <=
+Igual		| ==
+Diferente	| !=
+
+Operador de Atribuição | =  NAO Luis > Borges = False

@@ -1,0 +1,10 @@
+Operadores Aritméticos
+Adição		| +	  5 + 2 = 7
+Subtração	| -	  5 - 2 = 3
+Multiplicação	| *	  5 * 2 = 10
+Divisão	inteiro	| //	  5 // 2 = 3
+Divisão real	| /	  5 / 2 = 2.5
+Exponenciação	| **	  5 ** 2 = 25
+Radiciação	| **(1/2) 5 ** (1/2) = 2,24
+Módulo 		| %	  5 % 2 = 1
+			  4 % 2 = 0

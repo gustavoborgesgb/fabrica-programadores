@@ -1,0 +1,18 @@
+Operadores Lógicos
+	
+E - AND	|	Aprovado Nota E Presença
+			 Nota > 6 E Presença > 75%
+	V | V = V
+	F | V = F
+	V | F = F
+	F | F = F	
+
+OU - OR	|	Estudar Luis | Itapevi OU STP
+	
+	V | V = V
+	V | F = V
+	F | V = V
+	F | F = F
+
+NAO - NOT	|    NAO Luis > Borges = Falso
+

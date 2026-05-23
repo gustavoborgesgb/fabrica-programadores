@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="8Y2ihQzWG1NoksrG5MpR">
+    <mxGraphModel dx="1654" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-12" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DFDl9AX4W2_KSu7UsBfw-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Início Programa" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-9" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DFDl9AX4W2_KSu7UsBfw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-2" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="Recebe dados digitados" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="119" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-10" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DFDl9AX4W2_KSu7UsBfw-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Processar / Calcular" vertex="1">
+          <mxGeometry height="100" width="100" x="90" y="209" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-11" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DFDl9AX4W2_KSu7UsBfw-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Apresentar resultado na tela" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-13" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DFDl9AX4W2_KSu7UsBfw-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-5" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" value="Continuar" vertex="1">
+          <mxGeometry height="60" width="60" x="110" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-15" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="589.952380952381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-27" edge="1" parent="1" source="DFDl9AX4W2_KSu7UsBfw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DFDl9AX4W2_KSu7UsBfw-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Tomada de Decisão" vertex="1">
+          <mxGeometry height="100" width="100" x="90" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="DFDl9AX4W2_KSu7UsBfw-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Terminar Programa" vertex="1">
+          <mxGeometry height="60" width="100" x="90" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
